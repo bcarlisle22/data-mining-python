@@ -1,1 +1,3 @@
-# data-mining-python
+Data Mining Project
+
+``Python`` | ``Pandas`` | ``Jupyter Notebook``
