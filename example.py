@@ -10,7 +10,7 @@ import pandas as pd
 
 # DF-DataFrame(tabular data structure) PD-pandas 
 #csv(Comma Separated Values) - file format that stores tabular data separated by commas 
-df = pd.read_csv("/Users/briannacarlisle/Downloads/employees_1000.csv")
+df = pd.read_csv("/Users//Downloads/employees_1000.csv")
 
 #displays first few lines of content in csv 
 print(df)
